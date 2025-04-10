@@ -1,4 +1,4 @@
-# Predicting-Movie-Genres-Based-on-Plot-Summaries-using-PySpark
+# Pyspark Movie Genre Prediction
 
 The objective of this project is to get started with predictive Analytics with Apache Spark.
 The goals of the project are to use Spark Libraries to implement an end to end Predictive
